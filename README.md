@@ -11,6 +11,10 @@
 
 ### Dataset
 
+- explanation of dataset:
+
+dataset uncludes the names of the employee's, they're departments, they're salary, years working in the company, each employee's working position  
+
 ### Description of all Functions and Classes:
 Please find the deatils in the code as documentation
 
